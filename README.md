@@ -1,18 +1,9 @@
-<h2>Hello there :wave:<h2>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1><b>Hello there 👋</b></h1>
+    </summary>
+  </ul>
+</div>
 
-I'm currently building an iOS and Android app for people who want to log their workouts and track their progress over time
-
-<!--
-**YourJunny/YourJunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building an iOS and Android app for people who want to log their workouts and track their progress over time.
